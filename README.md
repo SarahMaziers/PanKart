@@ -1,8 +1,8 @@
 # PanKarte
 
-Projet du client : cahier des charges
+# Projet du client : cahier des charges
 
-Thierry van Ingelgom  Manager du groupe
+Thierry van Ingelgom -> Manager du groupe
 
 Le client est un groupe de musique qui s’appelle « Pancarte »
 Musique rock celtique  
@@ -13,11 +13,11 @@ Design sonore
 Une page qui donnerait les paroles des chansons
 Cette notion d’engagement et de dénoncer  doit vraiment transparaitre  page pour mettre des news « coup de gueule » mais aussi sur le groupe
 Valeurs : engagement durable, économie solidaire …
-Sont sur Gitstarter  met en lien organisateurs et artistes de toute l’Europe (9000 artistes)
+Sont sur Gitstarter -> met en lien organisateurs et artistes de toute l’Europe (9000 artistes)
 Lampli.be -> réservés aux artistes de la Province du Luxembourg
 Chaine Youtube
-Nom de domaine existant  www.pankart.com
-Actifs aussi sur Facebook  Petite communauté de 1300 personnes
+Nom de domaine existant -> www.pankart.com
+Actifs aussi sur Facebook -> Petite communauté de 1300 personnes
 Un peu actifs sur Instagram
 Une app  « BenzinTown » tous les concerts à proximité  le site devrait pouvoir renvoyer vers cette app
 Gikstarter organise tous les ans un concours et l’an dernier ils ont été sélectionnés pour la finale et ont gagné
