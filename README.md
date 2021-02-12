@@ -4,7 +4,7 @@
 
 Thierry van Ingelgom -> Manager du groupe
 
-Le client est un groupe de musique qui s’appelle « Pancarte »
+Le client est un groupe de musique qui s’appelle « PanKart »
 Musique rock celtique  
 Groupe engagé ! Doit transparaitre sur le site
 Le site doit s’adresser aux fans mais aussi aux personnes qui ne connaissent pas, vitrine du groupe
