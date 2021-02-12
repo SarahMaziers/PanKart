@@ -2,6 +2,8 @@
 
 # Projet du client : cahier des charges
 
+https://github.com/hepl-dw/projet-pankart
+
 Thierry van Ingelgom -> Manager du groupe
 
 Le client est un groupe de musique qui s’appelle « PanKart »
