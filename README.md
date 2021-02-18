@@ -104,3 +104,20 @@ https://github.com/hepl-dw/projet-pankart
 - Créer une structure organisationnelle pour le site, lister la volonté du client et voir ce qu’on peut proposer au client.
 
 # Gestion du projet: les différentes stratégies
+Les étapes
+- étape 1 : Communication des informations nécessaires lors du premier rendez-vous avec un prestataire
+- étape 2 : Mettre en place un cahier des charges
+	- Rédaction du cahier des charges
+	- Plan de site
+	- Rédaction du concept du site
+	- Moodboard
+	- Planifier le projet grâce à un outil de gestion de projet comme FreedCamp par exemple.
+- étape 3 : Charte graphique et web Design
+	- Créations de maquettes
+	- 
+
+- étape 4 : Mise en préproduction, le début de la création du site
+- étape 5 : Optimisation du référencement naturel SEO
+	-	
+	
+- étape 3 : Charte graphique et web Design
