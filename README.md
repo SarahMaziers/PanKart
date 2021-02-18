@@ -102,3 +102,5 @@ https://github.com/hepl-dw/projet-pankart
 - Page news -> Format un peu comme un blog , petit résumé, petites news dans une suite chronologique, format Twitter, avoir la possibilité d’accompagner le texte d’un visuel
 
 - Créer une structure organisationnelle pour le site, lister la volonté du client et voir ce qu’on peut proposer au client.
+
+# Gestion du projet: les différentes stratégies
