@@ -2,6 +2,8 @@
 
 # Projet du client : cahier des charges
 
+moodboard: https://app.milanote.com/1Ld0BL1xoMCEfs?p=3snQUe2HZed
+
 https://github.com/hepl-dw/projet-pankart
 
 ## Présentation du client
@@ -114,10 +116,7 @@ Les étapes
 	- Planifier le projet grâce à un outil de gestion de projet comme FreedCamp par exemple.
 - étape 3 : Charte graphique et web Design
 	- Créations de maquettes
-	- 
-
+	- ...
 - étape 4 : Mise en préproduction, le début de la création du site
 - étape 5 : Optimisation du référencement naturel SEO
-	-	
-	
-- étape 3 : Charte graphique et web Design
+...
