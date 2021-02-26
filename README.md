@@ -5,8 +5,8 @@
 moodboard: https://app.milanote.com/1Ld0BL1xoMCEfs?p=3snQUe2HZed
 
 https://github.com/hepl-dw/projet-pankart
-
-## Présentation du client
+## Le brief
+### Présentation du client
 - Thierry van Ingelgom -> Manager du groupe
 - Le client est un groupe de musique qui s’appelle « PanKart »
 - Musique rock celtique  
@@ -16,7 +16,7 @@ https://github.com/hepl-dw/projet-pankart
 - Penser au concept de design sonore
 - Valeurs du groupe: engagement durable, économie solidaire …
 
-## Structure
+### Structure
 - Une page qui donnerait les paroles des chansons
 - Notion d’engagement et de dénonciation doit vraiment transparaitre -> création d'une page pour mettre des news « coup de gueule » mais aussi sur le groupe
 - Ils sont sur Gitstarter => met en lien organisateurs et artistes de toute l’Europe (9000 artistes)
@@ -28,7 +28,7 @@ https://github.com/hepl-dw/projet-pankart
 - « BenzinTown » est une app qui montrent tous les concerts à proximité de nous => le site devrait pouvoir renvoyer vers cette app
 - Gikstarter organise tous les ans un concours et l’an dernier ils ont été sélectionnés pour la finale et ont gagné
 
-## Souhaits
+### Souhaits
 - Le logo: P et K en capitales à l’envers, pas vraiment de contrainte par rapport à la charte graphique
 - Responsive
 - Pour les mises à jour, ils aimeraient pouvoir etre autonomes
@@ -48,8 +48,8 @@ https://github.com/hepl-dw/projet-pankart
 - Liens vers toutes les plateformes externes du groupe (fb, insta…)
 (Cerise sur le gateau -> petit jeu où on balancerait des pancartes dans le visage de certains personnes jusqu’à ce qu’il saigne)
 
-## Séance questions-réponses
-### Sur quelle page l’utilisateur devrait arriver ?
+### Séance questions-réponses
+#### Sur quelle page l’utilisateur devrait arriver ?
 - Deux messages principaux
 - Double objectif  
 	- obj. est d’avoir un maximum de dates, qui est pancarte et quelles dispos ils ont
@@ -58,13 +58,13 @@ https://github.com/hepl-dw/projet-pankart
 - Suggestion: peut-être arriver sur une image ou un logo, qqch qui flashe qui donne envie d’aller plus loin. Selon M. Van Den Bos: experience immersive avec de la musique
 - Idées : jouer avec du son et faire vibrer le logo au rythme du son
 
-### Liste de sites qui vous inspirent
+#### Liste de sites qui vous inspirent
 - les FooFighters pas mal mais aurait pas envie de ça
 - 'Olihob Circus'? cool
 - va poser la question aux 6 autres gars
 …
 
-### Qu’est-ce qu’on doit attraper en 1er ? Les fans ou les organisateurs ? 
+#### Qu’est-ce qu’on doit attraper en 1er ? Les fans ou les organisateurs ? 
 - L’organisateur!
 
 - N.B: Rock celtique folk engagé -> pas envie d’être vu comme Merlin l’Enchanteur
@@ -72,7 +72,7 @@ https://github.com/hepl-dw/projet-pankart
 - Tshirt avec punchlines => pourrait peut-etre etre repris 
 - Standing still is not an option face à la musique de pancarte mais aussi face aux « injustices »
 - 
-### Quel public ?
+#### Quel public ?
 - Tout public
 - Écoconception web => allier performance avec une faible conso énergétique derrière
 - faire peut-être un site un peu simplifié
@@ -80,14 +80,14 @@ https://github.com/hepl-dw/projet-pankart
 - S’il existe des alternatives à Youtube, Google Analytics, ils sont ouverts au changement
 - Il faut se poser la question du pourquoi on utilise analytic, l’usage est en fonction de cela
 
-### Un budget pour une police originale et qql photos qui impactent ?
+#### Un budget pour une police originale et qql photos qui impactent ?
 - Oui !
 - Du coup, on peut aller fouiller dans les images où il y a des liserets 
 - Par exemple, photos journalistiques.
 - Pas en faire un site militant, ce n’est pas un site d’information
 - Groupe engagé mais musique avant tout
 
-### Un visuel accompagne-t-il l’EP ? 
+#### Un visuel accompagne-t-il l’EP ? 
 - oui mais c'est le logo
 
 - Si on bosse sur une nouvelle charte graphique, ils déclineront le reste sur la nouvelle charte (t-shirt, Facebook…).
@@ -105,18 +105,21 @@ https://github.com/hepl-dw/projet-pankart
 
 - Créer une structure organisationnelle pour le site, lister la volonté du client et voir ce qu’on peut proposer au client.
 
-# Gestion du projet: les différentes stratégies
-Les étapes
-- étape 1 : Communication des informations nécessaires lors du premier rendez-vous avec un prestataire
-- étape 2 : Mettre en place un cahier des charges
-	- Rédaction du cahier des charges
-	- Plan de site
-	- Rédaction du concept du site
-	- Moodboard
-	- Planifier le projet grâce à un outil de gestion de projet comme FreedCamp par exemple.
-- étape 3 : Charte graphique et web Design
-	- Créations de maquettes
-	- ...
-- étape 4 : Mise en préproduction, le début de la création du site
-- étape 5 : Optimisation du référencement naturel SEO
-...
+## Les objectifs
+
+## Le public cible
+
+## Plan de site
+- Page avec agenda des concerts
+	- pour le booking renvoyer vers gitstarter ou sur la page de contact
+- Page pour la biographie du groupe, y mettre un lien vers la page news
+- Page bio pour chaque membre du groupe (sous-pages de biographie du groupe)
+- Une page pour les paroles de chansons
+- Une page news avec les coups de cœur et coups de gueule du groupe
+- Page pour galerie photos et vidéos
+- Page de contact
+- Page privacy policy
+- (page revue de presse avec apparitions TV, magazines, journaux, gros titres..)
+- (Page ou bannière « merchandising » qui est désactivable. Promotion de projets ou de causes, lien vers formulaire de contact pour achats de CD par ex., pour un don…)
+
+## Stratégie
