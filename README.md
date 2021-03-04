@@ -108,6 +108,7 @@ https://github.com/hepl-dw/projet-pankart
 ## Les objectifs
 
 ## Le public cible
+Le public cible est un public assez large car le groupe propose une musique moderne mais dont le but est de sensibiliser (textes plutôt recherchés).
 
 ## Plan de site
 - Page avec agenda des concerts
@@ -123,3 +124,4 @@ https://github.com/hepl-dw/projet-pankart
 - (Page ou bannière « merchandising » qui est désactivable. Promotion de projets ou de causes, lien vers formulaire de contact pour achats de CD par ex., pour un don…)
 
 ## Stratégie
+
