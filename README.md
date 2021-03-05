@@ -106,9 +106,13 @@ https://github.com/hepl-dw/projet-pankart
 - Créer une structure organisationnelle pour le site, lister la volonté du client et voir ce qu’on peut proposer au client.
 
 ## Les objectifs
+L'objectif principal est d'élargir la renommée du groupe en élargissant leur visibilité sur le web et donc leur public. Un autre objectif pour le groupe est de faire passer des messages qui leur tiennent à coeur. 
 
 ## Le public cible
 Le public cible est un public assez large car le groupe propose une musique moderne mais dont le but est de sensibiliser (textes plutôt recherchés).
+
+## Le concept
+Le site aura un look un peu grunge/rebelle avec l'utilsation principale des couleurs du logo : orange et noir.
 
 ## Plan de site
 - Page avec agenda des concerts
@@ -124,4 +128,12 @@ Le public cible est un public assez large car le groupe propose une musique mode
 - (Page ou bannière « merchandising » qui est désactivable. Promotion de projets ou de causes, lien vers formulaire de contact pour achats de CD par ex., pour un don…)
 
 ## Stratégie
+- La landing page contiendrait un player avec une playlist de chanson du groupe. La musique pourrait être mise en pause ou baissée à tout moment. Sur cette page, on retrouverait le logo du groupe qui bougerait en fonction de la musique. Sur cette page il y aurait un call-to-action (bouton) qui nous ferait scroller plus bas dans la page pour atterrir sur la page "agenda des concerts" mais aussi sur une mini présentation du groupe qui contiendrait un bouton renvoyant sur la page "biographie". Dans cette section, il y aurait un agenda reprenant les dates de concerts et leurs disponibilités, il y aura aussi un historique de leurs concerts. Une section donnera la possibilité de booker le groupe pour un concert; ce lien renverrait vers le site gikstarter ou sur la page "contact". 
+- Sur la page bio, on retrouvera une biographie générale du groupe. On retrouvera aussi sur cette page un sous-menu vertical contenant les noms des diverses personnes du groupe et qui menerait pour chacun une page de présentation personnelle. Le groupe ayant ds valeurs à partager, on retrouverait sur cette page un lien vers les news. Il y aura un code couleur différenciant les coups de gueule et coups de coeur du groupe.
+- Pour la page news on retrouvera des extraits de news illustrés par une photo qui meneront pour chacune sur une page indépendante. Pour chaque news, il sera possible d'aller sur la news suivante ou d'aller à la news précédente. des suggestions de news à lire se trouveront en bas de page.
+- Une page sera dédiée aux paroles des chansons. Un sous-menu reprenant le nom des chansons se trouverait à gauche de la page. Chacun des liens menerait vers les paroles d'une chanson précise. Sur chacune des pages de paroles on aurait la possibilité d'aller sur la chanson suivante ou précédente. En fin de page on retrouverait des suggestions de chansons.
+- Une page gallerie contiendrait deux onglets sous le menu principal pour soit voir les photos, soit les videos. L'onglet photos serait sélectionné par défaut. A gauche on retrouverait les noms de concerts pour afficher les photos ou video correspondant à ces périodes.
+- La page de contact proposait un formulaire à choix multiples. Il sera possible de demander un envoi d'ep directement via le formulaire ou encore de demander une réservation au groupe.
+- Un breadcrumb sera mis en place pour que le visiteur puisse suivre son cheminement dans le site et revenir en arriere à tout moment
+- Une page "private policy" sera mise en place. Celle-ci contiendra comme toute page de ce type la grantie pour les utilisateurs que leurs données ne seront pas partagées, vendues à leur insu. Des templates de ce type de page existent.
 
