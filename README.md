@@ -138,4 +138,6 @@ Le site aura un look un peu grunge/rebelle avec l'utilsation principale des coul
 - Un breadcrumb sera mis en place pour que le visiteur puisse suivre son cheminement dans le site et revenir en arriere à tout moment
 - Une page "private policy" sera mise en place. Celle-ci contiendra comme toute page de ce type la grantie pour les utilisateurs que leurs données ne seront pas partagées, vendues à leur insu. Des templates de ce type de page existent.
 - Outil: https://www.websitecarbon.com/
+- GtMétrix
+- Outil pour vérifier les microdatas
 
