@@ -19,13 +19,13 @@ https://github.com/hepl-dw/projet-pankart
 ### Structure
 - Une page qui donnerait les paroles des chansons
 - Notion d’engagement et de dénonciation doit vraiment transparaitre -> création d'une page pour mettre des news « coup de gueule » mais aussi sur le groupe
-- Ils sont sur Gitstarter => met en lien organisateurs et artistes de toute l’Europe (9000 artistes)
+- Ils sont sur Gikstarter => met en lien organisateurs et artistes de toute l’Europe (9000 artistes)
 - Ils sont aussi sur Lampli.be -> réservés aux artistes de la Province du Luxembourg
 - Ils ont une Chaine Youtube
 - Nom de domaine existant => www.pankart.com
 - Actifs aussi sur Facebook => Petite communauté de 1300 fans
 - Un peu actifs sur Instagram
-- « BenzinTown » est une app qui montrent tous les concerts à proximité de nous => le site devrait pouvoir renvoyer vers cette app
+- « BandsinTown » est une app qui montrent tous les concerts à proximité de nous => le site devrait pouvoir renvoyer vers cette app
 - Gikstarter organise tous les ans un concours et l’an dernier ils ont été sélectionnés pour la finale et ont gagné
 
 ### Souhaits
@@ -34,9 +34,9 @@ https://github.com/hepl-dw/projet-pankart
 - Pour les mises à jour, ils aimeraient pouvoir etre autonomes
 - Fonction tracking ou de tracing ??? Voir ce que c'est.
 - Visuellement, site moderne, beau. Le site reflète notre époque et met en avant les valeurs défendues par le groupe. Ecoconception web idéalement
-- Design sonore => avoir du son sur le site ou des extraits… (se poser cette question)
+- Design sonore => avoir du son sur le site ou des extraits…
 - Page dédiée
-- agenda des concerts, 
+- 1genda des concerts, 
 - bio pour le groupe et bio pour chacun des membres
 - galeries photos video
 - page pour les news coups de cœur coup de gueule
